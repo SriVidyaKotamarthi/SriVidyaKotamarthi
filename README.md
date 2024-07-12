@@ -57,8 +57,11 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
 
 ### Senior Technical Lead - Data Science @ Mercedes-Benz Research and Development India
 **December 2022 - Present**
-- Led data science projects involving machine learning and deep learning.
-- Provided actionable insights aligned with business objectives using Python and predictive modeling.
+December 2022 - Present
+- Designed and optimized the database schema and data engineering pipelines using the Medallion Architecture to support advanced analytics.
+- Developed summary dashboards and self-service query tools using Vue.js and Chart.js for component designers, fault analysts, and management.
+- Implemented Visual Query tools and AI-based query tools to provide actionable insights aligned with business objectives using Python and GPT Turbo interfacing.
+- Collaborated closely with cross-functional teams to integrate data from multiple sources and ensure the accuracy and reliability of analytics.
 
 ### CueMath Teacher @ Cuemath
 **November 2019 - December 2022**
@@ -75,7 +78,7 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
 
 ### Senior Engineer @ Honeywell Technology Solutions, Bangalore
 **November 2009 - November 2013**
-- Developed tools for Automated Test Procedures and Simulation Software for testing various Line replaceable units.
+- Developed tools for Automated Test Procedures and Simulation Software for testing various Line Replaceable units.
 - Worked at the partner location (Toronto) for requirements, coding, and integration.
 - Effective coordination between software and hardware teams.
 
