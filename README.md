@@ -19,24 +19,29 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
 
 ---
 
-## Education
+### **Education**
 
-- **PG Level Advanced Certification Programme in Computational Data Science**
-  - Indian Institute of Science (IISc), Data Science
-  - Duration: September 2021 - October 2022
-  - Percentage: 97%
-  - Grade A+
+#### **Advanced Certification Programme in Generative AI and Prompt Engineering**  
+**Indian Institute of Science (IISc)** | **June 2024 – December 2024**  
+- Organized by **Indian Institute of Science (IISc)** in association with **TalentSprint**.  
+- Covered:  
+  - Generative Text, Image, and Audio Models  
+  - Advanced Prompt Engineering  
+  - LLMOps with LangChain and LlamaIndex  
+  - Building Generative AI Applications: From Concept to Implementation  
+- Certification: [View Credential](https://portfolios.talentsprint.com/gena)  
 
-- **Master of Technology (M.Tech) in VLSI**
-  - Jawaharlal Nehru Technological University, Kakinada
-  - Duration: 2017 - 2019
-  - Percentage: 86%
-  - Selected for Pratibha Award
+#### **Postgraduate Level Advanced Certification Programme in Computational Data Science**  
+**Indian Institute of Science (IISc)** | **September 2021 – October 2022**  
+- Percentage: **97%** | Grade: **A+**  
 
-- **Bachelor of Engineering (Electronics and Instrumentation)**
-  - Andhra University, SIR C.R.R. College of Engineering A.P
-  - Duration: 2003-2007
-  - Percentage: 89.12%
+#### **Master of Technology (M.Tech) in VLSI**  
+**Jawaharlal Nehru Technological University (JNTU), Kakinada** | **2017 – 2019**  
+- Percentage: **86%** | Recipient of the **Pratibha Award**  
+
+#### **Bachelor of Engineering (Electronics and Instrumentation)**  
+**Andhra University, SIR C.R.R. College of Engineering, A.P** | **2003 – 2007**  
+- Percentage: **89.12%**  
 
 ---
 
