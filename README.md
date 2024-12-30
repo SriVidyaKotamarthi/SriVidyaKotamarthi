@@ -99,39 +99,71 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
 - Trained in Industry-ready Technical skills including Software Engineering, C, Embedded C, VC++, C#, ASP.NET, ADO.NET, MS SQL.
 
 ---
+## **Projects**
 
-## Projects
+### **PNDS Data Analytics Framework**  
+**Organization**: Mercedes-Benz Research and Development India | **2023 – 2024**  
+- Designed and deployed a **Medallion Architecture-based framework** for scalable and modular data pipelines supporting **AI-driven analytics**.  
+- Developed **LLM-powered Generative AI Query Tools** leveraging **Azure OpenAI APIs** and **prompt engineering**, enhancing data exploration capabilities.  
+- Built and deployed a web application on **Azure App Service** with real-time dashboards, error classification, and FLOW data integration.  
+- Improved system reliability by 25% through automated data quality controls and **Unity Catalog** implementation.  
 
-1. **BERT422 Simulator for eCIB of A350**
-   - **Description:** Software captures RS-422 HDLC cross-link traffic for the electronic Controls Integration Bench (eCIB).
-   - **Team Size:** 2 members
-   - **Technology:** C, LabWindows/CVI
-   - **Duration:** October 2010 – Till date
+---
 
-2. **Acceptance Test Procedure (ATP) Development for ASCU A350**
-   - **Description:** Developed ATP to ensure specialized hardware meets specifications for the Air Supply Control Unit of Airbus A350.
-   - **Team Size:** 5 members
-   - **Technology:** C, LabWindows/CVI, VBA scripting
-   - **Duration:** February 2010 – October 2010
+### **Google Gen AI Exchange Hackathon (Top 5 Winner)**  
+**Organization**: Not Applicable **2024**  
+- Created a **multi-agent Generative AI framework** to solve domain-specific enterprise challenges using **LLMs**.  
+- Designed a scalable architecture integrating **OpenAI and Azure AI APIs**, improving task execution efficiency by 30%.  
+- Recognized in the **Top 5 Winning Teams** for delivering innovative and scalable Generative AI solutions.  
 
-3. **Rate Table Process Control Software (RTPCS)**
-   - **Description:** Provided a communication interface between Honeywell Test Stations and commercial test equipment.
-   - **Team Size:** 3 members
-   - **Technology:** C#, .NET 3.5, Visual Studio 2008
-   - **Duration:** November 2008 – January 2010
+---
 
-4. **Metrics Automation**
-   - **Description:** Automated metrics collection and presentation across projects and domains.
-   - **Team Size:** 1 member
-   - **Technology:** C#, .NET 2.0, Visual Studio 2005, MS SQL 2000
-   - **Duration:** February 2008 – November 2008
+### **AI-Based Resume Matcher**  
+**Organization**: Mercedes-Benz Research and Development India | **2024**  
+- Built an **AI-driven resume matching tool** using **LLMs** and **vector databases**, improving candidate matching accuracy by 20%.  
+- Seamlessly integrated the system with internal HR workflows, streamlining recruitment processes.  
 
-5. **VHM Toolbox**
-   - **Description:** Developed a toolbox for collaboration of diagnostic and prognostic algorithms.
-   - **Team Size:** 2 members
-   - **Technology:** MATLAB, M-scripting
-   - **Duration:** February 2008 – November 2008
+---
 
+### **Recognition and Reward (R&R) Automation Framework**  
+**Organization**: Mercedes-Benz Research and Development India | **2024**  
+- Automated **Recognition & Reward (R&R)** processes, reducing manual efforts and improving team engagement.  
+- Designed a **departmental chatbot** for tracking R&R activities and collecting feedback, enhancing response efficiency.  
+
+---
+
+### **BERT422 Simulator for eCIB of A350**  
+**Organization**: Honeywell | **October 2010 – Present**  
+- Developed software to capture **RS-422 HDLC cross-link traffic** for the **electronic Controls Integration Bench (eCIB)**.  
+- **Team Size**: 2 members | **Technology**: C, LabWindows/CVI  
+
+---
+
+### **Acceptance Test Procedure (ATP) Development for ASCU A350**  
+**Organization**: Honeywell | **February 2010 – October 2010**  
+- Developed ATP to ensure specialized hardware met specifications for the **Air Supply Control Unit (ASCU)** of Airbus A350.  
+- **Team Size**: 5 members | **Technology**: C, LabWindows/CVI, VBA scripting  
+
+---
+
+### **Rate Table Process Control Software (RTPCS)**  
+**Organization**: Honeywell | **November 2008 – January 2010**  
+- Developed a communication interface between **Honeywell Test Stations** and commercial test equipment.  
+- **Team Size**: 3 members | **Technology**: C#, .NET 3.5, Visual Studio 2008  
+
+---
+
+### **Metrics Automation**  
+**Organization**: Honeywell | **February 2008 – November 2008**  
+- Automated metrics collection and presentation across projects and domains.  
+- **Team Size**: 1 member | **Technology**: C#, .NET 2.0, Visual Studio 2005, MS SQL 2000  
+
+---
+
+### **VHM Toolbox**  
+**Organization**: Honeywell | **February 2008 – November 2008**  
+- Developed a toolbox for collaboration of diagnostic and prognostic algorithms.  
+- **Team Size**: 2 members | **Technology**: MATLAB, M-scripting
 ---
 
 ## Achievements
