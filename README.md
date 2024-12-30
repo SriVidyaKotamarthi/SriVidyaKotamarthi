@@ -55,13 +55,15 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
 
 ## Professional Experience
 
-### Senior Technical Lead - Data Science @ Mercedes-Benz Research and Development India
-**December 2022 - Present**
-December 2022 - Present
-- Designed and optimized the database schema and data engineering pipelines using the Medallion Architecture to support advanced analytics.
-- Developed summary dashboards and self-service query tools using Vue.js and Chart.js for component designers, fault analysts, and management.
-- Implemented Visual Query tools and AI-based query tools to provide actionable insights aligned with business objectives using Python and GPT Turbo interfacing.
-- Collaborated closely with cross-functional teams to integrate data from multiple sources and ensure the accuracy and reliability of analytics.
+### **Senior Technical Lead - Data Science**  
+**Mercedes-Benz Research and Development India** | **December 2022 – Present**  
+
+- Architected and optimized **data engineering pipelines** using **Medallion Architecture**, enabling scalable and modular data processing for advanced analytics and AI solutions.  
+- Designed and deployed **self-service query tools** and **interactive summary dashboards** using **Vue.js** and **Chart.js**, empowering component designers, fault analysts, and management with real-time insights.  
+- Developed **AI-powered Visual Query Tools** leveraging **GPT Turbo** and **Python**, providing actionable insights aligned with business objectives and improving query resolution efficiency by 30%.  
+- Integrated **Generative AI models** into analytics workflows, fine-tuning **LLMs** for domain-specific tasks and ensuring high-performance results through **prompt engineering**.  
+- Collaborated with cross-functional teams to consolidate data from diverse sources, ensuring accuracy, reliability, and seamless integration into enterprise systems.  
+- Delivered end-to-end solutions that enhanced decision-making, improved data accessibility, and aligned analytics with organizational goals.
 
 ### CueMath Teacher @ Cuemath
 **November 2019 - December 2022**
