@@ -111,7 +111,7 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
 ---
 
 ### **Google Gen AI Exchange Hackathon (Top 5 Winner)**  
-**Organization**: Not Applicable **2024**  
+**Organization**: Not Applicable | **2024**  
 - Created a **multi-agent Generative AI framework** to solve domain-specific enterprise challenges using **LLMs**.  
 - Designed a scalable architecture integrating **OpenAI and Azure AI APIs**, improving task execution efficiency by 30%.  
 - Recognized in the **Top 5 Winning Teams** for delivering innovative and scalable Generative AI solutions.  
