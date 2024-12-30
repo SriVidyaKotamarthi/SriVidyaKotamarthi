@@ -21,7 +21,7 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
 
 ## **Education**
 
-### **Advanced Certification Programme in Generative AI and Prompt Engineering**  
+### 1. **Advanced Certification Programme in Generative AI and Prompt Engineering**  
 **Indian Institute of Science (IISc)** | **June 2024 – December 2024**  
 - Organized by **Indian Institute of Science (IISc)** in association with **TalentSprint**.  
 - Covered:  
@@ -31,15 +31,15 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
   - Building Generative AI Applications: From Concept to Implementation  
 - Certification: [View Credential](https://portfolios.talentsprint.com/gena)  
 
-### **Postgraduate Level Advanced Certification Programme in Computational Data Science**  
+### 2. **Postgraduate Level Advanced Certification Programme in Computational Data Science**  
 **Indian Institute of Science (IISc)** | **September 2021 – October 2022**  
 - Percentage: **97%** | Grade: **A+**  
 
-### **Master of Technology (M.Tech) in VLSI**  
+### 3. **Master of Technology (M.Tech) in VLSI**  
 **Jawaharlal Nehru Technological University (JNTU), Kakinada** | **2017 – 2019**  
 - Percentage: **86%** | Recipient of the **Pratibha Award**  
 
-### **Bachelor of Engineering (Electronics and Instrumentation)**  
+### 4. **Bachelor of Engineering (Electronics and Instrumentation)**  
 **Andhra University, SIR C.R.R. College of Engineering, A.P** | **2003 – 2007**  
 - Percentage: **89.12%**  
 
