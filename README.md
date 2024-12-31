@@ -9,7 +9,7 @@ An organized, self-motivated technology enthusiast with over 14.5 years of exper
 ### Contact Information
 - **Email:** srividyakotamarthi@gmail.com
 - **Phone:** +91-7259810943
-- **LinkedIn:** [Sri Vidya Kotamarti](https://github.com/SriVidyaKotamarthi/SriVidyaKotamarthi/blob/main/2200682.pdf)
+- **LinkedIn:** [Sri Vidya Kotamarti]([https://www.linkedin.com/in/srividyakotamarti/])
 
 ---
 
@@ -29,7 +29,7 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
   - Advanced Prompt Engineering  
   - LLMOps with LangChain and LlamaIndex  
   - Building Generative AI Applications: From Concept to Implementation  
-- Certification: [View Credential](https://portfolios.talentsprint.com/gena)  
+- Certification: [View Credential]([https://github.com/SriVidyaKotamarthi/SriVidyaKotamarthi/blob/main/2200682.pdf]) 
 
 ### 2. **Postgraduate Level Advanced Certification Programme in Computational Data Science**  
 **Indian Institute of Science (IISc)** | **September 2021 – October 2022**  
