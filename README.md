@@ -9,7 +9,7 @@ An organized, self-motivated technology enthusiast with over 14.5 years of exper
 ### Contact Information
 - **Email:** srividyakotamarthi@gmail.com
 - **Phone:** +91-7259810943
-- **LinkedIn:** [Sri Vidya Kotamarti]([https://www.linkedin.com/in/srividyakotamarti/])
+- **LinkedIn:** [Sri Vidya Kotamarti](https://www.linkedin.com/in/srividyakotamarti/)
 
 ---
 
