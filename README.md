@@ -29,7 +29,7 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
   - Advanced Prompt Engineering  
   - LLMOps with LangChain and LlamaIndex  
   - Building Generative AI Applications: From Concept to Implementation  
-- Certification: [View Credential]([https://github.com/SriVidyaKotamarthi/SriVidyaKotamarthi/blob/main/2200682.pdf]) 
+- Certification: [View Credential](https://github.com/SriVidyaKotamarthi/SriVidyaKotamarthi/raw/main/2200682.pdf) 
 
 ### 2. **Postgraduate Level Advanced Certification Programme in Computational Data Science**  
 **Indian Institute of Science (IISc)** | **September 2021 – October 2022**  
