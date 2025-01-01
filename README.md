@@ -47,14 +47,17 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
 
 ## Skills
 
-- **Programming Languages:** Python, Vue.js, HTML, CSS, JS, PySpark, C, C++, VC++, C#, MATLAB, Scripting
-- **Application Packages:** MATLAB, C#.NET, ADO.NET, MS Visual Studio, NI LabWindows/CVI, NI LabVIEW
-- **Assembly Languages:** Intel 8085/8086, 8051
-- **IDEs:** Pycharm, VS Code, MS VC++, MS Visual Studio, LabWindows/CVI, LabVIEW
-- **DBMS:** Oracle 9i, SQL, MS SQL, MySQL
-- **Frameworks:** Django, .NET 2.0, 3.5
-- **Tools:** Git, GitHub, Tortoise SVN, Enterprise Architect, Bugzilla, JIRA, Microsoft Project
-- **Other Skills:** A/B Testing, Critical Thinking, Azure Databricks
+- **Programming Languages:** Python, R, SQL, PySpark, Vue.js, HTML, CSS, JavaScript, C, C++, VC++, C#, MATLAB, Scripting  
+- **Data Science and Analytics:** Data Wrangling, Data Visualization, Feature Engineering, Predictive Modeling, Statistical Analysis, A/B Testing, Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing (NLP), Exploratory Data Analysis (EDA)  
+- **Generative AI:** Generative Text Models, Image and Audio Generation, Advanced Prompt Engineering, LLMOps using LangChain and LlamaIndex, Building Generative AI Applications  
+- **Application Packages:** MATLAB, C#.NET, ADO.NET, MS Visual Studio, NI LabWindows/CVI, NI LabVIEW  
+- **Assembly Languages:** Intel 8085/8086, 8051  
+- **IDEs:** PyCharm, VS Code, MS VC++, MS Visual Studio, LabWindows/CVI, LabVIEW  
+- **DBMS:** Oracle 9i, MS SQL Server, MySQL, PostgreSQL  
+- **Frameworks:** Django, Flask, FastAPI, .NET (2.0, 3.5)  
+- **Cloud and Big Data Tools:** Azure Databricks, Azure Data Factory, Apache Spark, Hadoop Ecosystem  
+- **Tools:** Git, GitHub, Tortoise SVN, Enterprise Architect, JIRA, Bugzilla, Microsoft Project  
+- **Other Skills:** Critical Thinking, Problem Solving, Data Storytelling, Agile Methodologies, CI/CD Pipelines
 
 ---
 
