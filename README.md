@@ -171,7 +171,7 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
 - **Top 5 Winner**: Google Gen AI Exchange Hackathon (2024) – Recognized for building a multi-agent Generative AI framework to solve enterprise challenges using LLMs.  
 - **Kaizen Champion Award**: For developing the **AI-Based Resume Matcher Kaizen (2024)**, improving candidate matching accuracy by 20%.  
 - **SWAYAM Certification**: Successfully completed the **Effective Business Communication** course offered by **IIM Bangalore** with a consolidated score of **84.9%** (January 2024 Semester).  
-- **Departmental Bronze Award**: Recognized for unwavering commitment, analytical skills, and inspirational leadership.  
+- **Departmental Appreciation**: Recognized for unwavering commitment, analytical skills, and inspirational leadership.  
   - *Manager's Feedback*:  
     > "Srividya, thank you for the amazing commitment at work. You lead from the front, take problems head-on, and don't hesitate to challenge yourself and others. Your superb analytical skills, passion, and dedication are an inspiration to many around you."  
 - **Departmental Bronze Award**: For exceptional performance in driving data initiatives and overcoming challenges with focus and dedication.  
@@ -180,7 +180,7 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
 - **Departmental Award**: For leading the **PN-Data topic** with exceptional dedication and determination.  
   - *Manager's Feedback*:  
     > "Srividya single-handedly led the PN-Data topic for most of the year. Her dedication towards the project is very high. She started the topic from scratch, learnt her way through, helped in defining the roadmap, and showed quick wins that can be achieved. She is a go-getter, focused, and determined."  
-- **Spot Award**: For executing Kaizens (May 2011).  
+- **Spot Award**: For executing maximum number of Kaizens in a month. 
 - **Team Excellence Award**: For the **RTPCS project in C#.NET**.  
 - **Excellence Award**: For contributions to the **VHM Toolbox project**.  
 - **Selected for Pratibha Award**: For outstanding academic performance during **M.Tech in VLSI**.  
@@ -204,7 +204,7 @@ To dedicate myself as a worthy and energetic resource in a progressive and resul
   - Actively participated in **annual day celebrations**, contributing to event planning and execution.  
 
 - **Leadership Roles in Previous Organizations**:  
-  - Led the initial phases of the **ASCU ATP implementation** project, ensuring smooth execution and team alignment.  
+  - Led the **ASCU ATP implementation** project, ensuring smooth execution and team alignment.  
   - Served as a **Team Lead** for the **Six Sigma Green Belt Project**, driving process improvements and efficiency enhancements.  
 
 - **College Leadership**:  
